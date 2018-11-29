@@ -3,20 +3,20 @@
  Layout Shifter Pattern
  */
 
-.projects {
-    width: 375px;
-    order: 1;
-    margin-right: auto;
+.me {
+    width: 296px;
+    margin-left: auto;
 }
 
 #signature {
-    width: 750px;
+    width: 434px;
+    margin-right: auto;
 }
 
-.me {
-    width: 375px;
-    order: -1;
+.projects {
+    width: 730px;
     margin-left: auto;
+    margin-right: auto;
 }
 
 /*********************************************************************************************************************/

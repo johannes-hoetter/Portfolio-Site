@@ -26,10 +26,18 @@ body {
     margin: 0;
 }
 
+h1, h2 {
+    text-align: center;
+}
+
+.transparent_text {
+    opacity: 0;
+}
+
 .me {
     background-image: url("../images/mobile_mainimg.jpg");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: contain;
 }
 
 /*********************************************************************************************************************/
