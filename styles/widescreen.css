@@ -1,0 +1,15 @@
+.bottom {
+    width: 375px;
+    order: 1;
+    margin-right: auto;
+}
+
+#subcontainer {
+    width: 750px;
+}
+
+.me {
+    width: 375px;
+    order: -1;
+    margin-left: auto;
+}

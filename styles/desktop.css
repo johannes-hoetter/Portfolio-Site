@@ -1,0 +1,13 @@
+.bottom {
+    width: 25%;
+    order: 1;
+}
+
+#subcontainer {
+    width: 50%;
+}
+
+.me {
+    width: 25%;
+    order: -1;
+}

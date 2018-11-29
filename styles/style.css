@@ -1,0 +1,41 @@
+/*
+ Layout Shifter Pattern
+ */
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.box {
+    width: 100%;
+}
+
+/*
+ Basic CSS
+ */
+
+body {
+    margin: 0;
+}
+
+/*
+ Better Understanding, Delete afterwards
+ */
+
+.me {
+    background-color: blue;
+}
+
+.middle_top {
+    background-color: green;
+}
+
+.middle_bottom {
+    background-color: yellow;
+}
+
+.bottom {
+    background-color: red;
+}
