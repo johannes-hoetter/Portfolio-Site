@@ -1,3 +1,4 @@
+/*********************************************************************************************************************/
 /*
  Layout Shifter Pattern
  */
@@ -12,6 +13,11 @@
     width: 100%;
 }
 
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+/*********************************************************************************************************************/
 /*
  Basic CSS
  */
@@ -20,13 +26,19 @@ body {
     margin: 0;
 }
 
+.me {
+    background-image: url("../images/mobile_mainimg.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+/*********************************************************************************************************************/
+
 /*
  Better Understanding, Delete afterwards
  */
 
-.me {
-    background-color: blue;
-}
+
 
 .about {
     background-color: green;
@@ -36,6 +48,6 @@ body {
     background-color: yellow;
 }
 
-.bottom {
+.projects{
     background-color: red;
 }
