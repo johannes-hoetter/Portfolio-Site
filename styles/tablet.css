@@ -11,15 +11,16 @@
     width: 60%;
 }
 
+
 /*********************************************************************************************************************/
 /*
   Basic CSS
  */
 
 .me {
-    background-image: url("../images/tablet_mainimg.jpg");
+    background-image: url("../images/photo_placeholder.png");
     background-repeat: no-repeat;
-    background-size: 100%
+    background-size: contain;
 }
 
 /*********************************************************************************************************************/

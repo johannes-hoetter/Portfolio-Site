@@ -23,19 +23,34 @@ body {
  */
 
 body {
+    background-image: url("../images/city_3840.jpg");
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
     margin: 0;
+}
+
+header {
+    background-color: rgba(0,0,0,0.6); /*dim the background*/
 }
 
 h1, h2 {
     text-align: center;
+    color: aliceblue;
 }
 
 .transparent_text {
+    margin-top: 0;
     opacity: 0;
 }
 
 .me {
-    background-image: url("../images/mobile_mainimg.jpg");
+    background-image: url("../images/photo_placeholder.png");
     background-repeat: no-repeat;
     background-size: contain;
 }
